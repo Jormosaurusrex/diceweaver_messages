@@ -7,3 +7,5 @@ Message Files for Diceweaver
 To add a new language, simply create a new file with the language code in the directory, copy the contents from messages-en.json into it, and then change the keys.
 
 Where you see numbered parameters ($1, $2, etc.) these are arguments passed to the string.  
+
+Create a pull request for changes.  Changes are merged into the mainline periodically, so will not become immediately visible.
